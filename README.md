@@ -204,9 +204,7 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 
 ### 📝 Recent Articles on Medium
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-updated daily from https://medium.com/feed/@ekrem-yigit -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- **[Android Skills.md Resmileşti: İlk Durak Edge-to-Edge](https://ekrem-yigit.medium.com/android-skills-md-resmile%C5%9Fti-i%CC%87lk-durak-edge-to-edge-15da37b385b1?source=rss-8f2bcb549e45------2)** — _$date_<br/><br/>- **[AI’ya Güvenme, Sistemi Yönet: Claude Code Hooks ile Tanışın](https://ekrem-yigit.medium.com/aiya-g%C3%BCvenme-sistemi-y%C3%B6net-claude-code-hooks-ile-tan%C4%B1%C5%9F%C4%B1n-b26a60bd4d85?source=rss-8f2bcb549e45------2)** — _$date_<br/><br/>- **[Mobil Projelerde Sıfır Context Kirliliği: Lazy-Root](https://ekrem-yigit.medium.com/mobil-projelerde-s%C4%B1f%C4%B1r-context-kirlili%C4%9Fi-lazy-root-4ac81932ad91?source=rss-8f2bcb549e45------2)** — _$date_<br/><br/><!-- BLOG-POST-LIST:END -->
 
 <p>
   <a href="https://medium.com/@ekrem-yigit">
