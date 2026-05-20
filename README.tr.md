@@ -210,8 +210,7 @@ Son 3 yıldır **Modular Framework & SDK Architecture** üzerine yoğunlaştım 
 
 ### 📝 Medium'da Son Yazılar
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><p>📖&nbsp; <strong><a href="https://ekrem-yigit.medium.com/android-skills-md-resmile%C5%9Fti-i%CC%87lk-durak-edge-to-edge-15da37b385b1?source=rss-8f2bcb549e45------2">Android Skills.md Resmileşti: İlk Durak Edge-to-Edge</a></strong> &nbsp;·&nbsp; <sub>Apr 17, 2026</sub></p><p>📖&nbsp; <strong><a href="https://ekrem-yigit.medium.com/aiya-g%C3%BCvenme-sistemi-y%C3%B6net-claude-code-hooks-ile-tan%C4%B1%C5%9F%C4%B1n-b26a60bd4d85?source=rss-8f2bcb549e45------2">AI’ya Güvenme, Sistemi Yönet: Claude Code Hooks ile Tanışın</a></strong> &nbsp;·&nbsp; <sub>Mar 26, 2026</sub></p><p>📖&nbsp; <strong><a href="https://ekrem-yigit.medium.com/mobil-projelerde-s%C4%B1f%C4%B1r-context-kirlili%C4%9Fi-lazy-root-4ac81932ad91?source=rss-8f2bcb549e45------2">Mobil Projelerde Sıfır Context Kirliliği: Lazy-Root</a></strong> &nbsp;·&nbsp; <sub>Mar 12, 2026</sub></p><!-- BLOG-POST-LIST:END -->
 
 <p>
   <a href="https://medium.com/@ekrem-yigit">
