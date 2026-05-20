@@ -28,7 +28,7 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 
 ### 🎯 Current Focus
 
-- 🚀 Shipping a **production pharmacy finder** to Play Store & App Store — Flutter + Supabase + Firebase, multi-flavor builds, offline-resilient
+- 🚀 **Iterating on a live production app** — pharmacy finder shipped to Play Store & App Store, built with Flutter + Supabase + Firebase, multi-flavor builds, offline-resilient
 - 📱 Tracking **platform-level innovation** — what's new in Android (17+) and learning iOS / Swift to ship cross-platform from one head
 - 🏗 Going deep on **system design & large-scale mobile architecture** — moving from Android specialist to all-around mobile engineer
 
