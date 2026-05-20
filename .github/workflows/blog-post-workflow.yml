@@ -22,7 +22,8 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@ekrem-yigit"
           max_post_count: 5
-          template: "- **[$title]($url)** — _$date_<br/>$description<br/>"
+          template: "- 📖 **[$title]($url)** &nbsp;·&nbsp; <sub>$date</sub>"
+          date_format: "mmm d, yyyy"
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "chore: refresh Medium articles"
           retry_count: 3
