@@ -1,11 +1,11 @@
 <!-- ============================================================== -->
-<!-- 0. LANGUAGE SWITCHER — EN active                                -->
+<!-- 0. LANGUAGE SWITCHER — TR active                                -->
 <!-- ============================================================== -->
 
 <p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-7AA2F7?style=for-the-badge" alt="English" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-2D3748?style=for-the-badge" alt="English" /></a>
   &nbsp;
-  <a href="README.tr.md"><img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrk%C3%A7e-2D3748?style=for-the-badge" alt="Türkçe" /></a>
+  <a href="README.tr.md"><img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrk%C3%A7e-7AA2F7?style=for-the-badge" alt="Türkçe" /></a>
 </p>
 
 <!-- ============================================================== -->
@@ -14,7 +14,7 @@
 
 <h1 align="center">
   <a href="https://github.com/EkremYigit">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ekrem+%F0%9F%91%8B;Senior+Android+Developer;5%2B+years+%E2%80%A2+Fintech+%26+Banking;Modular+Framework+%26+SDK+Architecture;Expanding+into+Flutter+%E2%80%A2+iOS+%2F+Swift;Building+mobile+apps+from+%C4%B0zmir+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Merhaba%2C+ben+Ekrem+%F0%9F%91%8B;Senior+Android+Developer;5%2B+y%C4%B1l+%E2%80%A2+Fintech+%26+Banking;Modular+Framework+%26+SDK+Architecture;Flutter+%E2%80%A2+iOS+%2F+Swift'e+geni%C5%9Fliyorum;%C4%B0zmir'den+mobil+uygulamalar+geli%C5%9Ftiriyorum+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,31 +22,31 @@
 <!-- 2. INTRO — Senior / Builder narrative                           -->
 <!-- ============================================================== -->
 
-### About me
+### Hakkımda
 
-**Senior Android Developer** with **5+ years of expertise in the Fintech & Banking domain**. My background combines corporate banking processes with B2B mobile solution development.
+5+ yıllık **Fintech & Banking** alanında uzmanlığa sahip **Senior Android Developer**. Geçmişim kurumsal bankacılık süreçlerini B2B mobil çözüm geliştirme ile birleştiriyor.
 
-For the last 3 years I've focused on **Modular Framework & SDK Architecture** — designing headless data layers and customizable UI libraries that let client teams integrate flexibly without coupling to internals. I build reliable systems by combining modern Android with **regulatory security protocols**.
+Son 3 yıldır **Modular Framework & SDK Architecture** üzerine yoğunlaştım — istemci ekiplerinin internal koda coupling olmadan esnek entegrasyon yapabilmesi için headless data layer ve özelleştirilebilir UI library'ler tasarlıyorum. Modern Android'i **regulatory security protocol**'leri ile birleştirerek güvenilir sistemler kuruyorum.
 
-Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform from a single head, while going deeper on system design and large-scale mobile architecture.
+Şu anda **Flutter** ve **iOS / Swift**'e genişleyerek tek beyinden cross-platform üretim yapma yetkinliğine odaklanıyorum; sistem tasarımı ve large-scale mobile architecture konularında derinleşmeye devam ediyorum.
 
-> Most of my work lives in **private repositories**. The stats below count private contributions, so they reflect real activity — never repository contents.
+> Çalışmalarımın büyük kısmı **private repository**'lerde yaşar. Aşağıdaki istatistikler private contribution'ları sayar — gerçek aktiviteyi yansıtır, repo içeriklerini değil.
 
 <!-- ============================================================== -->
 <!-- 3. CURRENT FOCUS                                                 -->
 <!-- ============================================================== -->
 
-### 🎯 Current Focus
+### 🎯 Şu Anki Odak
 
-- 🚀 Shipping a **production pharmacy finder** to Play Store & App Store — Flutter + Supabase + Firebase, multi-flavor builds, offline-resilient
-- 📱 Tracking **platform-level innovation** — what's new in Android (17+) and learning iOS / Swift to ship cross-platform from one head
-- 🏗 Going deep on **system design & large-scale mobile architecture** — moving from Android specialist to all-around mobile engineer
+- 🚀 Bir **production eczane bulucu** uygulamasını Play Store & App Store'a göndermek — Flutter + Supabase + Firebase, multi-flavor build'ler, offline-resilient
+- 📱 **Platform-seviyesi yenilikleri** takip etmek — Android (17+) ile gelenler ve iOS / Swift'i öğrenerek tek kafadan cross-platform üretmek
+- 🏗 **System design & large-scale mobile architecture** alanında derinleşmek — Android specialist'ten her tarafta üretebilen mobile engineer'a geçiş
 
 <!-- ============================================================== -->
 <!-- 4. FEATURED PROJECT — eczane-acil-flutter                       -->
 <!-- ============================================================== -->
 
-### 🌟 Featured Project
+### 🌟 Öne Çıkan Proje
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EkremYigit/eczane-acil-flutter/main/screenshots/app_icon.png" width="90" alt="EczaneAcil icon" />
@@ -61,15 +61,15 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.eczaneacil">
-    <img src="https://img.shields.io/badge/Google_Play-Live-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Live on Google Play" />
+    <img src="https://img.shields.io/badge/Google_Play-Yay%C4%B1nda-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play'de Yayında" />
   </a>
   <a href="https://apps.apple.com/tr/app/eczaneacil/id6768989618?l=tr">
-    <img src="https://img.shields.io/badge/App_Store-Live-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Live on App Store" />
+    <img src="https://img.shields.io/badge/App_Store-Yay%C4%B1nda-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store'da Yayında" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EkremYigit/eczane-acil-flutter/main/screenshots/banner.png" width="720" alt="EczaneAcil promotional banner showing the app on two phones" />
+  <img src="https://raw.githubusercontent.com/EkremYigit/eczane-acil-flutter/main/screenshots/banner.png" width="720" alt="EczaneAcil promosyon banner — uygulama iki telefonda" />
 </p>
 
 <p align="center">
@@ -86,17 +86,17 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 
 **Engineering Highlights**
 
-- 🧩 **Architecture** — Clean Architecture · SOLID · Decorator-chained network layer (Retry → Logger → Supabase RPC) · Repository + UseCase + Riverpod AsyncNotifier
-- 🗺 **PostGIS spatial queries** — viewport-bounded `ST_Within` over indexed pharmacy geometry; fast regardless of dataset size
-- ⚡ **Versioned offline cache** — server includes a version int with each response; client skips the network when up to date
-- 🔄 **Server-driven configuration** — force-update threshold, KVKK text and refresh intervals managed via Supabase + Firebase Remote Config; reaches 100% of active users instantly with zero store release
-- 🏗 **Multi-flavor builds** — dev / prod with separate Firebase projects, R8 hardening, store-ready AAB / IPA
-- 🤖 **Scheduled GitHub Actions** — daily duty sync + monthly OpenStreetMap seed; upsert-first strategy prevents partial-run data loss
-- ♿ **Adaptive layout** — phone / tablet / landscape via `LayoutBuilder`; per-component `TextScaler` cap survives 200% system font
+- 🧩 **Architecture** — Clean Architecture · SOLID · Decorator zincirli network katmanı (Retry → Logger → Supabase RPC) · Repository + UseCase + Riverpod AsyncNotifier
+- 🗺 **PostGIS spatial queries** — harita viewport sınırları ile indeksli eczane geometrisi üzerinde `ST_Within` sorgusu; dataset büyüklüğünden bağımsız hızlı
+- ⚡ **Versioned offline cache** — sunucu her yanıtla bir versiyon int döner; istemci güncelse network'e gitmez
+- 🔄 **Server-driven configuration** — force-update eşiği, KVKK metni ve refresh aralıkları Supabase + Firebase Remote Config üzerinden yönetilir; %100 aktif kullanıcıya anında ulaşır, store release gerekmez
+- 🏗 **Multi-flavor builds** — dev / prod ayrı Firebase project'leri, R8 hardening, store-ready AAB / IPA
+- 🤖 **Scheduled GitHub Actions** — günlük nöbet senkronu + aylık OpenStreetMap seed; upsert-first stratejisi partial-run veri kaybını engeller
+- ♿ **Adaptive layout** — telefon / tablet / yatay ekran `LayoutBuilder` ile; component bazlı `TextScaler` cap %200 sistem font'una dayanır
 
 <p align="center">
   <a href="https://github.com/EkremYigit/eczane-acil-flutter">
-    <img src="https://img.shields.io/badge/View%20Source%20on%20GitHub%20%E2%86%92-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="View Source on GitHub" />
+    <img src="https://img.shields.io/badge/Kayna%C4%9F%C4%B1%20GitHub'da%20G%C3%B6r%20%E2%86%92-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Kaynağı GitHub'da Gör" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 <!-- 5. SKILLS & TOOLS — Shields.io badges                            -->
 <!-- ============================================================== -->
 
-### 🛠 Skills & Tools
+### 🛠 Yetenekler & Araçlar
 
 **Mobile Languages & UI**
 
@@ -116,7 +116,7 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 ![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift%20(learning)-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift%20(%C3%B6%C4%9Freniyorum)-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 **Architecture & Patterns**
 
@@ -192,37 +192,38 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 <!-- 6. GITHUB ACTIVITY — streak + activity graph                    -->
 <!-- ============================================================== -->
 
-### 📊 GitHub Activity
+### 📊 GitHub Aktivitesi
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EkremYigit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=EkremYigit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7&locale=tr_TR" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkremYigit&theme=tokyo-night&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=BB9AF7&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
-<sub>📌 These widgets reflect public activity. For a private-aware language / contribution breakdown, see <code>SETUP.md</code> → Adım 2 (<code>jstrieb/github-stats</code> fork).</sub>
+<sub>📌 Bu widget'lar public aktiviteyi yansıtır. Private repo'lardaki dil / contribution dökümü için <code>SETUP.md</code> → Adım 2 (<code>jstrieb/github-stats</code> fork) yöntemini kullan.</sub>
 
 <!-- ============================================================== -->
-<!-- 6. RECENT ACTIVITY — placeholder for future RSS auto-update     -->
+<!-- 7. RECENT ARTICLES — auto-synced from English README             -->
 <!-- ============================================================== -->
 
-### 📝 Recent Articles on Medium
+### 📝 Medium'da Son Yazılar
 
-<!-- BLOG-POST-LIST:START --><p>📖&nbsp; <strong><a href="https://ekrem-yigit.medium.com/android-skills-md-resmile%C5%9Fti-i%CC%87lk-durak-edge-to-edge-15da37b385b1?source=rss-8f2bcb549e45------2">Android Skills.md Resmileşti: İlk Durak Edge-to-Edge</a></strong> &nbsp;·&nbsp; <sub>Apr 17, 2026</sub></p><p>📖&nbsp; <strong><a href="https://ekrem-yigit.medium.com/aiya-g%C3%BCvenme-sistemi-y%C3%B6net-claude-code-hooks-ile-tan%C4%B1%C5%9F%C4%B1n-b26a60bd4d85?source=rss-8f2bcb549e45------2">AI’ya Güvenme, Sistemi Yönet: Claude Code Hooks ile Tanışın</a></strong> &nbsp;·&nbsp; <sub>Mar 26, 2026</sub></p><p>📖&nbsp; <strong><a href="https://ekrem-yigit.medium.com/mobil-projelerde-s%C4%B1f%C4%B1r-context-kirlili%C4%9Fi-lazy-root-4ac81932ad91?source=rss-8f2bcb549e45------2">Mobil Projelerde Sıfır Context Kirliliği: Lazy-Root</a></strong> &nbsp;·&nbsp; <sub>Mar 12, 2026</sub></p><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p>
   <a href="https://medium.com/@ekrem-yigit">
-    <img src="https://img.shields.io/badge/Read%20more%20on%20Medium%20%E2%86%92-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read more on Medium" />
+    <img src="https://img.shields.io/badge/Medium'da%20daha%20fazla%20oku%20%E2%86%92-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium'da daha fazla oku" />
   </a>
 </p>
 
 <!-- ============================================================== -->
-<!-- 7. CONNECT — footer with social/contact badges                  -->
+<!-- 8. CONNECT — footer with social/contact badges                  -->
 <!-- ============================================================== -->
 
-### 🤝 Connect
+### 🤝 İletişim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ekremmyigit/">
@@ -236,4 +237,4 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
   </a>
 </p>
 
-<sub>📍 İzmir, Türkiye · Open to mobile engineering opportunities</sub>
+<sub>📍 İzmir, Türkiye · Mobile engineering fırsatlarına açığım</sub>
