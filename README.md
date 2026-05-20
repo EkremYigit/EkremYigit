@@ -202,19 +202,17 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 <!-- 6. RECENT ACTIVITY — placeholder for future RSS auto-update     -->
 <!-- ============================================================== -->
 
-### 📝 Recent Activity
+### 📝 Recent Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
-<!--                                                                    -->
-<!-- This section will auto-populate from an RSS feed once a blog       -->
-<!-- is set up. To activate later:                                      -->
-<!--   1. Publish a blog with an RSS feed (Medium, dev.to, Hashnode…)   -->
-<!--   2. Add a workflow using gautamkrishnar/blog-post-workflow        -->
-<!--   3. Point it at your feed URL — items appear between these tags   -->
-<!--                                                                    -->
+<!-- Auto-updated daily from https://medium.com/feed/@ekrem-yigit -->
 <!-- BLOG-POST-LIST:END -->
 
-_Coming soon._
+<p>
+  <a href="https://medium.com/@ekrem-yigit">
+    <img src="https://img.shields.io/badge/Read%20more%20on%20Medium%20%E2%86%92-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read more on Medium" />
+  </a>
+</p>
 
 <!-- ============================================================== -->
 <!-- 7. CONNECT — footer with social/contact badges                  -->
@@ -225,6 +223,9 @@ _Coming soon._
 <p align="left">
   <a href="https://www.linkedin.com/in/ekremmyigit/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@ekrem-yigit">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:ekrem.yigit.izmir@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />

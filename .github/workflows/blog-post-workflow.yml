@@ -1,0 +1,29 @@
+name: Update Medium Articles
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (09:00 İzmir time)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Pull latest articles from Medium RSS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with latest Medium articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@ekrem-yigit"
+          max_post_count: 5
+          template: "- **[$title]($url)** — _$date_<br/>$description<br/>"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore: refresh Medium articles"
+          retry_count: 3
+          retry_wait_time: 5
