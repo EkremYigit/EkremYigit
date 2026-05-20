@@ -36,17 +36,35 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 <!-- 4. FEATURED PROJECT — eczane-acil-flutter                       -->
 <!-- ============================================================== -->
 
-### 🌟 Featured Project
+### 🌟 Featured Project — Eczane Acil
 
-<a href="https://github.com/EkremYigit/eczane-acil-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EkremYigit&repo=eczane-acil-flutter&theme=tokyonight&hide_border=true&icon_color=7AA2F7&title_color=7AA2F7" alt="eczane-acil-flutter repo card" />
-</a>
+> 🩺 **A production-grade pharmacy finder** helping users locate nearby on-duty pharmacies across Türkiye. Shipped to Play Store · App Store submission in progress.
 
-**Eczane Acil** — a production-grade pharmacy finder that helps users locate nearby on-duty pharmacies across Türkiye. Shipped to Play Store and prepared for App Store submission.
+**Tech Stack**
 
-- **Stack:** Flutter · Dart · Supabase (Postgres + Row-Level Security) · Firebase (Crashlytics, Remote Config, Analytics)
-- **Architecture:** Clean Architecture with Riverpod state management, Freezed-generated models, and a layered network client (retry + logging + Supabase RPC)
-- **Engineering details:** multi-flavor builds (dev/prod), versioned offline cache, runtime feature gates via Remote Config, force/soft update flow, scheduled GitHub Actions for backend scraping, full TR/EN localization
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20RLS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-1A73E8?style=flat-square)
+![Freezed](https://img.shields.io/badge/Freezed-00B4D8?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2F80ED?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Engineering Highlights**
+
+- 🧩 **Architecture** — Clean Architecture · Riverpod state · Freezed models · layered network client (retry + logging + Supabase RPC)
+- 🏗 **Build pipeline** — multi-flavor (dev / prod), Firebase per flavor, R8 / ProGuard hardening, store-ready AAB / IPA
+- ⚡ **Resilience** — `VersionedCacheStore` offline cache, force / soft update flow gated by version code, Firebase Crashlytics + Analytics
+- 🔧 **Backend ops** — scheduled GitHub Actions scrapers, automated email alerts via Google App password, Supabase RPC + Row-Level Security
+- 🌐 **i18n** — full TR / EN localization via `flutter gen-l10n`
+
+<p>
+  <a href="https://github.com/EkremYigit/eczane-acil-flutter">
+    <img src="https://img.shields.io/badge/View%20Repository%20%E2%86%92-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</p>
 
 <!-- ============================================================== -->
 <!-- 5. SKILLS & TOOLS — Shields.io badges                            -->
@@ -102,17 +120,24 @@ Currently expanding into **Flutter** and **iOS / Swift** to ship cross-platform 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 <!-- ============================================================== -->
-<!-- 6. GITHUB STATS — works out of the box (count_private=true)     -->
+<!-- 6. GITHUB ACTIVITY — streak + activity graph + trophies         -->
 <!-- ============================================================== -->
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=EkremYigit&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&icon_color=7AA2F7&title_color=7AA2F7" alt="Ekrem's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkremYigit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=7AA2F7" alt="Ekrem's Most Used Languages" />
+  <img src="https://streak-stats.demolab.com/?user=EkremYigit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
 </p>
 
-<sub>📌 Commit / PR / contribution totals include private repositories via <code>count_private=true</code>. Language breakdown reflects public repos only — a deeper private-aware breakdown can be enabled later via the optional <code>jstrieb/github-stats</code> fork described in <code>SETUP.md</code>.</sub>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EkremYigit&theme=tokyo-night&bg_color=1A1B27&color=7AA2F7&line=7AA2F7&point=BB9AF7&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EkremYigit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+<sub>📌 These widgets reflect public activity. For a private-aware language / contribution breakdown, see <code>SETUP.md</code> → Adım 2 (<code>jstrieb/github-stats</code> fork).</sub>
 
 <!-- ============================================================== -->
 <!-- 6. RECENT ACTIVITY — placeholder for future RSS auto-update     -->
