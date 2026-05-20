@@ -1,14 +1,4 @@
 <!-- ============================================================== -->
-<!-- 0. LANGUAGE SWITCHER — EN active                                -->
-<!-- ============================================================== -->
-
-<p align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-7AA2F7?style=for-the-badge" alt="English" /></a>
-  &nbsp;
-  <a href="README.tr.md"><img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrk%C3%A7e-2D3748?style=for-the-badge" alt="Türkçe" /></a>
-</p>
-
-<!-- ============================================================== -->
 <!-- 1. HERO — Animated typing headline                              -->
 <!-- ============================================================== -->
 

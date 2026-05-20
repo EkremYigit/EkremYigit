@@ -11,13 +11,13 @@ permissions:
 
 jobs:
   update-readme:
-    name: Pull latest articles from Medium RSS and sync to both READMEs
+    name: Pull latest articles from Medium RSS
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update README.md with latest Medium articles
+      - name: Update README with latest Medium articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@ekrem-yigit"
@@ -25,42 +25,6 @@ jobs:
           template: "<p>📖&nbsp; <strong><a href=\"$url\">$title</a></strong> &nbsp;·&nbsp; <sub>$date</sub></p>"
           date_format: "mmm d, yyyy"
           comment_tag_name: "BLOG-POST-LIST"
-          disable_commit: "true"
+          commit_message: "chore: refresh Medium articles"
           retry_count: 3
           retry_wait_time: 5
-
-      - name: Sync blog block from README.md to README.tr.md
-        run: |
-          python3 - <<'PYEOF'
-          import re, sys
-          MARKER = re.compile(r'<!-- BLOG-POST-LIST:START -->.*?<!-- BLOG-POST-LIST:END -->', re.DOTALL)
-          with open('README.md', encoding='utf-8') as f:
-              en = f.read()
-          match = MARKER.search(en)
-          if not match:
-              sys.exit('BLOG-POST-LIST block not found in README.md')
-          block = match.group(0)
-          with open('README.tr.md', encoding='utf-8') as f:
-              tr = f.read()
-          new_tr, n = MARKER.subn(lambda _m: block, tr, count=1)
-          if n == 0:
-              sys.exit('BLOG-POST-LIST block not found in README.tr.md')
-          if new_tr != tr:
-              with open('README.tr.md', 'w', encoding='utf-8') as f:
-                  f.write(new_tr)
-              print('README.tr.md updated')
-          else:
-              print('README.tr.md already in sync')
-          PYEOF
-
-      - name: Commit refreshed READMEs (both languages)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md README.tr.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: refresh Medium articles (EN + TR)"
-            git push
-          fi
